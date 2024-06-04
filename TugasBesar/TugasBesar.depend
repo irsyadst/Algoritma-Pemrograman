@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674630365 source:d:\semester1\alpro\tugasbesar\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<ctime>
+

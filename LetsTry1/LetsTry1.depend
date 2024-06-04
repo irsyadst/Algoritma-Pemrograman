@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673857341 source:d:\semester1\alpro\letstry1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

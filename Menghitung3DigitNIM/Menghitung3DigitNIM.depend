@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667033149 source:d:\alpro\menghitung3digitnim\main.cpp
+	<iostream>
+	<iomanip>
+
